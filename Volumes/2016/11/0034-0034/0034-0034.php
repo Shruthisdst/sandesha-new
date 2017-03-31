@@ -30,7 +30,7 @@ include('../../../../php/nav.php');
 			</div>
 			<div class="rightimg largeFnt">
 				<img src="main/img2.jpg" alt="image" title="चित्रवार्ताः">
-				<p>कर्णाटके आदिचुञ्चनगिरिक्षेत्रे<br /> प्रवृत्तस्य संस्कृतदिनाचरणस्य दृश्यम्&nbsp;।</p>
+				<p>कर्णाटके बेङ्गलूरुनगरे राष्ट्रोत्थानविद्याकेन्द्रे<br /> प्रवृत्तस्य संस्कृतदिनोत्सवस्य दृश्यम् ।</p>
 			</div>
 			<div class="leftimg largeFnt">
 				<img src="main/img3.jpg" alt="image" title="चित्रवार्ताः">

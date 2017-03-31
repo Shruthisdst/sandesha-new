@@ -27,20 +27,8 @@ include('../../../../php/nav.php');
 			</div>
 		</div>
 		<div class="largeText">
-			<div class="leftimg largeFnt">
-				<h3 class="colorfnt">१ कति सन्ति ‘क’कारा: ?</h3>
+			<div class="center">
 				<img src="main/img1.jpg" alt="image" title="कुतुककुटी  १११">
-				<p>ककारा: चित्रे कति सन्ति इति लिखत&nbsp;।</p>
-			</div>
-			<div class="rightimg largeFnt">
-				<h3 class="colorfnt">२ कस्य वर्ण: क: ? </h3>
-				<img src="main/img2.jpg" alt="image" title="कुतुककुटी  १११">
-				<p>कुटीराणां वर्णं दृष्ट्वा वर्णवाचकपदेन कुटीरं योजयत&nbsp;।</p>
-			</div>
-			<div class="leftimg largeFnt">
-				<h3 class="colorfnt">३ किम् एतत् ? </h3>
-				<img src="main/img3.jpg" alt="image" title="कुतुककुटी  १११">
-				<p>अन्तिमाक्षरं दृष्ट्वा चित्रस्य प्रथमाक्षरं लिखत&nbsp;।</p>
 			</div>
 		</div>
 	</section>

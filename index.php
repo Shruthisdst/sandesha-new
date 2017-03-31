@@ -128,7 +128,7 @@
 				$result2=mysql_query($query2);
 				$row2=mysql_fetch_assoc($result2);
 				echo "<div class=\"widget\">";
-				echo "<div class=\"tbar\">" . getMonthDevanagari($row2['month']) . " सञ्चिकाः</div>";
+				echo "<div class=\"tbar\">" . getMonthDevanagari($row2['month']) . " सञ्चिका</div>";
 				echo "<img src=\"php/images/current_issue.jpg\" alt=\"Current Issue\"/><br />";
 				echo "<div class=\"indexTitle\"><a href=\"Volumes/".$row2['year']."/".$row2['month']."/".$row2['page']."/".$row2['page'].".php"."\" target=\"_blank\">" . $row_1['featurename'] . " : " . $row2['title'] . "</a></div>";
 				echo "<div class=\"text\">";

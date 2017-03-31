@@ -27,17 +27,8 @@ include('../../../../php/nav.php');
 			</div>
 		</div>
 		<div class="largeText">
-			<div class="leftimg">
+			<div class="center">
 				<img src="main/img1.jpg" alt="image" title="वृषभस्य मूल्यम् ४">
-				<p>किञ्चिदनन्तरम्... स तु सुखेन शेते&nbsp;।<br /> आवां तत् क्षेत्रं प्रविशाव तावत्&nbsp;।</p>
-			</div>
-			<div class="rightimg">
-				<img src="main/img2.jpg" alt="image" title="वृषभस्य मूल्यम् ४">
-				<p>उभौ अपि वृषभौ पाश्वस्थं क्षेत्रं प्रविश्य<br /> सस्यखादनम् आरब्धवन्तौ&nbsp;।</p>
-			</div>
-			<div class="leftimg">
-				<img src="main/img3.jpg" alt="image" title="वृषभस्य मूल्यम् ४">
-				<p>अल्पे एव काले तस्य क्षेत्रस्य स्वामी पन्नालाल:<br /> सस्यानि खादन्तौ तौ वृषभौ दृष्टवान्&nbsp;।<br />अनुवर्तिष्यते</p>
 			</div>
 		</div>
 	</section>

@@ -16,7 +16,7 @@ include('../../../../php/nav.php');
 	</header>
 	<section class="wrapper style4 container">
 		<div class="center">
-			<h2><span class="artTitle sanskrit">ग्रन्थिलम् - भागः-६</span></h2>
+			<h2><span class="artTitle sanskrit">६ ललिताया: दौर्बल्यस्य अवगमनम्</span></h2>
 		</div>
 		<div class="featAuth">
 			<div id="left">

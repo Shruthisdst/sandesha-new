@@ -23,7 +23,7 @@ include('../../../../php/nav.php');
 				<h3><a href="<?=PHP_URL?>feat.php?featid=1007&featname=निकषोपलः" target="_blank"><span class="featurespan sanskrit">निकषोपलः</span></a></h3>
 			</div>
 			<div id="right">
-				<h3><a href="<?=PHP_URL?>showAuthorArticles.php?authid=2897&authorname=वसुदेवः,%20के.%20वि." target="_blank"><span class="authorspan sanskrit">&mdash; ण्  डा के.वि. वासुदेव:, चालक्कुटी</span></a></h3>
+				<h3><a href="<?=PHP_URL?>showAuthorArticles.php?authid=2897&authorname=वसुदेवः,%20के.%20वि." target="_blank"><span class="authorspan sanskrit">&mdash; डा. के.वि. वासुदेव:, चालक्कुटी</span></a></h3>
 			</div>
 		</div>
 		<div class="largeText">
